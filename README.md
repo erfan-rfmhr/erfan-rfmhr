@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Erfan, back-end developer.
+Hey there! I'm Erfan, software engineer at idekavan group(https://idekavan.com/)
 
 
 ## 🌐 Socials:
