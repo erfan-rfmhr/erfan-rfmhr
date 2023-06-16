@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Erfan, software engineer at <a href="https://idekavan.com/" target="_blank">idekavan group</a>
-
+Hey there! I'm Erfan, software engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-arefmehr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17225758) 
