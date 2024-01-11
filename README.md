@@ -11,6 +11,3 @@ Hey there! I'm Erfan, software engineer.
 ![](https://github-readme-stats.vercel.app/api?username=erfan-rfmhr&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erfan-rfmhr&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-rfmhr&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=erfan-rfmhr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
