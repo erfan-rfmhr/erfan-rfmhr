@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Erfan, software engineer.
+Hey there! I'm Erfan, a passionate software engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-arefmehr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17225758) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erfan_rfmhr) 
