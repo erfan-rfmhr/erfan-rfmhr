@@ -1,8 +1,7 @@
 # About Me:
 Hey there! I'm Erfan, a passionate software engineer.
 
-Maintainer at [twspace-dl](https://github.com/HoloArchivists/twspace-dl).
-Collaborator to [django-json-widget](https://github.com/jmrivas86/django-json-widget)
+Maintainer at [twspace-dl](https://github.com/HoloArchivists/twspace-dl) and [django-json-widget](https://github.com/jmrivas86/django-json-widget)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-arefmehr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17225758) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erfan_rfmhr) 
