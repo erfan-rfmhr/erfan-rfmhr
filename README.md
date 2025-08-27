@@ -4,7 +4,7 @@ Hey there! I'm Erfan, a passionate software engineer.
 Maintainer at [twspace-dl](https://github.com/HoloArchivists/twspace-dl) and [django-json-widget](https://github.com/jmrivas86/django-json-widget)
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-arefmehr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17225758) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erfan_rfmhr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-arefmehr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17225758) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erfan_rfmhr)](https://x.com/erfan_rfmhr) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pasta_engineer)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erfan-rfmhr&theme=onedark&border=true&include_all_commits=false&count_private=false)<br/>
